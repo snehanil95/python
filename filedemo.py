@@ -1,0 +1,5 @@
+fd1=open("Marvellous","w")
+fd1.write("python:mmmm334532")
+fd1=open("Marvellous","r")
+print("file content:",fd1)
+print(fd1.read())
